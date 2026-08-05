@@ -1,4 +1,4 @@
-### <div align="center">I’m a Web Developer currently living, studying, and working in Hanoi, Vietnam. I’m a third-year student at FPT University with a strong passion for programming</div>  
+### <div align="center">I’m a Web Developer currently living, studying, and working in Hanoi, Vietnam. I’m a four-year student at FPT University with a strong passion for programming</div>  
   
 
 - 💻 Tech Enthusiast: I love exploring new technologies and continuously improving my skills in web development.  
